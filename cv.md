@@ -8,7 +8,7 @@
 
 * **Location:** Minsk, Belarus
 * **Phone:** + 375 25 617-53-01
-* **E-mail:** saf101213@gmail.com
+* **E-mail:** <saf101213@gmail.com>
 * **GitHub:** [saf101101](https://github.com/saf101101)
 
 ## **About Me:**
