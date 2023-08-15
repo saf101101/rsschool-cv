@@ -87,7 +87,7 @@ body {
 
     .personPhoto {
         border-radius: 50%;
-        width: 100%;  
+        width: 100%;
         margin: 20px;
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
         padding: 5px;
@@ -125,7 +125,7 @@ body {
         display: flex;
         height: 470px;
         margin: 0 0 0 85px;
-    }  
+    }
 
     .section-text {
         font-family: 'Inter';
@@ -169,7 +169,6 @@ body {
     .main {
         max-width: 1440px;
         width: 100%;
-        
         flex-direction: row;
         margin: 0 auto;
     }
@@ -191,7 +190,7 @@ body {
         text-align: center;
         background-color: rgb(255, 228, 196);
         border: 1px solid rgb(0, 0, 0);
-        padding: 10px 0px;  
+        padding: 10px 0px;
         margin: 0 auto;
     }
 
@@ -205,7 +204,7 @@ body {
         justify-content: flex-end;
         align-items: center;
         margin-right: 25px;
-        list-style: none;        
+        list-style: none;
     }
 
     .footer-block {
@@ -220,16 +219,16 @@ body {
         height: 40px;
     }
 
-    .footer-social-rs {        
+    .footer-social-rs {
         background-image: url(../assets/icons/rs_school_svg.svg);
         background-size: contain;
         background-position: center;
         background-repeat: no-repeat;
         display: block;
-        padding: 20px;    
+        padding: 20px;
     }
 
-    .footer-social-git {        
+    .footer-social-git {
         background-image: url(../assets/icons/github_svg.svg);
         background-size: cover;
         display: block;
